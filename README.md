@@ -14,9 +14,9 @@ This project is a real-time hand gesture recognition system developed using Pyth
 | :---: | :---: | :---: |
 | ![1](screenshots/1.PNG) | ![2](screenshots/2.PNG) | ![3](screenshots/3.PNG) |
 
-| Prediction: 4 | Prediction: 5 |
+| Prediction: 4 | Prediction: 5 |  Prediction: 6 |
 | :---: | :---: |
-| ![4](screenshots/4.PNG) | ![5](screenshots/5.PNG) |
+| ![4](screenshots/4.PNG) | ![5](screenshots/5.PNG) | ![6](screenshots/6.PNG) |
 
 ## 🛠️ Tech Stack
 - **Language:** Python 3.x
