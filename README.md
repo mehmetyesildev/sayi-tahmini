@@ -6,7 +6,7 @@ This project is a real-time hand gesture recognition system developed using Pyth
 - **Real-Time Detection:** Captures and processes live video feed using OpenCV.
 - **CNN Architecture:** Trained with a custom Deep Learning model using Conv2D and MaxPooling layers.
 - **Data Augmentation:** Implemented `ImageDataGenerator` (rescaling, zooming, shearing) to prevent overfitting and improve model generalization.
-- **ROI (Region of Interest):** Focuses processing on a specific area (blue rectangle) to enhance accuracy and performance.
+- **ROI (Region of Interest)::** Focuses processing on a specific area (blue rectangle) to enhance accuracy and performance.
 
 ## 📷 Screenshots (Demo)
 
@@ -26,10 +26,6 @@ This project is a real-time hand gesture recognition system developed using Pyth
 - **Language:** Python 3.x
 - **Libraries:** TensorFlow, Keras, OpenCV, NumPy
 
-## ▶️ Installation & Usage
-1. Install the required dependencies:
-   ```bash
-   pip install tensorflow opencv-python numpy
 ## ▶️ Installation & Usage
 1. Install the required dependencies:
    ```bash
